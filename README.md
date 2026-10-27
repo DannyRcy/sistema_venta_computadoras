@@ -2,7 +2,7 @@
 
 ## Descripción Técnica General
 
-Este repositorio contiene el diseño, scripts SQL y la especificación de endpoints para la base de datos de un sistema de venta de computadoras, componentes y accesorios. Incluye modelos conceptuales, lógicos y scripts de creación (DDL) e inserción (DML).
+Este repositorio contiene el diseño NoSQL, scripts de inicialización y la especificación de endpoints para la base de datos basada en MongoDB de un sistema de venta de computadoras, componentes y accesorios. Incluye modelos de documentos, colecciones y scripts de inserción de datos de prueba.
 
 ## Datos de Identificación
 
